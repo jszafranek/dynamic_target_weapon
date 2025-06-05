@@ -5,7 +5,7 @@ Projekt rozwiązujący problem dynamicznego przypisywania broni do celów (Dynam
 ---
 
 ## Struktura projektu
-
+```
 dynamic_target_weapon/
 │
 ├── wyniki/ # folder z wynikami działania programu main.cpp
@@ -14,7 +14,7 @@ dynamic_target_weapon/
 ├── main.cpp # główny plik źródłowy programu
 ├── opis.md # szczegółowy opis projektu
 └── An_Efficient_Rule-Based_Constructive_Heuristic_to_Solve_Dynamic_Weapon-Target_Assignment_Problem.pdf # opis problemu jako podejście heurystyczne
-
+```
 ## Opis plików i folderów
 
 ### wyniki/
