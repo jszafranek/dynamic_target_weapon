@@ -2,6 +2,11 @@
 
 Projekt rozwiązujący problem dynamicznego przypisywania broni do celów (Dynamic Weapon-Target Assignment, DWTA) z wykorzystaniem podejścia heurystycznego oraz modelu optymalizacyjnego.
 
+## Autorzy
+Łukasz Łukaszewski
+Paweł Kwieciński
+Jakub Szafranek
+
 ---
 
 ## Struktura projektu
